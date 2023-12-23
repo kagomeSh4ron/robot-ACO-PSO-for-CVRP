@@ -13,14 +13,14 @@ ubuntu20.04
 采用vscode软件
 
 ## 运行结果
-<img width="215" alt="image" src="https://github.com/ckxSh4ron/robot-ACO-PSO-for-CVRP/assets/138695155/dc9f0151-57d3-4d6d-9600-454a63769ede">
+<img width="215" alt="image" src="https://github.com/ckxSh4ron/robot-ACO-PSO-for-CVRP/assets/138695155/dc9f0151-57d3-4d6d-9600-454a63769ede">  \
 PSO算法下E-n22-k4最佳路径图
 
-<img width="217" alt="image" src="https://github.com/ckxSh4ron/robot-ACO-PSO-for-CVRP/assets/138695155/b12df01e-c8d1-4221-8694-e614484d61fc">
+<img width="217" alt="image" src="https://github.com/ckxSh4ron/robot-ACO-PSO-for-CVRP/assets/138695155/b12df01e-c8d1-4221-8694-e614484d61fc">  \
 PSO算法下E-n22-k4最佳路径图
 
-<img width="231" alt="image" src="https://github.com/ckxSh4ron/robot-ACO-PSO-for-CVRP/assets/138695155/445e89db-3e0d-4172-aeb6-7d89ac8b83a9">
+<img width="231" alt="image" src="https://github.com/ckxSh4ron/robot-ACO-PSO-for-CVRP/assets/138695155/445e89db-3e0d-4172-aeb6-7d89ac8b83a9">  \
 PSO算法下E-n101-k14最佳路径图
 
-<img width="230" alt="image" src="https://github.com/ckxSh4ron/robot-ACO-PSO-for-CVRP/assets/138695155/dc1b3721-814b-4393-b086-0c387bef79d4">
+<img width="230" alt="image" src="https://github.com/ckxSh4ron/robot-ACO-PSO-for-CVRP/assets/138695155/dc1b3721-814b-4393-b086-0c387bef79d4">  \
 ACO算法下E-n101-k14最佳路径图
